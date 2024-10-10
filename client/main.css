@@ -1,0 +1,23 @@
+:root {
+  --widget-width: 200px;
+  --widget-height: 200px;
+  --widget-margin: 30px;
+}
+
+body {
+  padding: 0 10px 10px 10px;
+  font-family: sans-serif;
+}
+
+.connection {
+  background-color: blue;
+  border-radius: 5px;
+  color: white;
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 300px;
+}
+
+.connection a {
+  color: white;
+}
